@@ -1,1 +1,2 @@
-# Mini-Project-33-QR-Generator-WebApp-
+# Mini-Project-33
+# `QR-Generator-WebApp`
